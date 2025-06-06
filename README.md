@@ -10,7 +10,7 @@
 ## 💻 Sobre mim
 🎓 Estudante de Ciência da Computação  
 🔐 Apaixonado por Segurança da Informação  
-🏦 Interessando em cyber seguraça 
+🏦 Interessando em cyber seguraça
 🚀 Explorando o mundo da programação e da tecnologia
 
 ---
@@ -29,8 +29,8 @@
 ## 📈 Estatísticas GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jvmgomes&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmgomes&layout=normal&theme=radical" />
 </p>
 
 ---
