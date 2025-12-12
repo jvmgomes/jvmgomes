@@ -5,8 +5,8 @@
 
 ## 💻 Sobre mim
 🎓 Estudante de Ciência da Computação  
-🔐 Apaixonado por Segurança da Informação  
-🏦 Interessando em cyber seguraça
+🔐 Apaixonado por Jogos 
+🏦 Interessado em cibersegurança
 🚀 Explorando o mundo da programação e da tecnologia
 
 ---
@@ -26,7 +26,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jvmgomes&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmgomes&layout=normal&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmgomes&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" />
 </p>
 
 ---
