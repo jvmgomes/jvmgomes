@@ -1,9 +1,5 @@
 <h1 align="center">Olá! Eu sou o João Vitor 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/seu-usuario?style=social" alt="GitHub followers"/>
-</p>
 
 ---
 
